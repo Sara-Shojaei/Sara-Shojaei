@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sara-Shojaei
-- 👀 I’m interested in Data Analyse and Data science
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Python projects
+- 👋 Hi, I’m Sara
+I'm a Data Scientist & ML enthusiast based in Austria 🇦🇹, with a strong passion for building meaningful AI solutions that make a difference — especially in healthcare, emotional well-being, and education.
+“AI should serve people — with empathy, clarity, and purpose.”
 - 📫 shojaie.sara@outlook.de
 
 <!---
